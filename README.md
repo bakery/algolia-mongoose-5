@@ -34,5 +34,5 @@ book saved OK
   ◜ Starting a MongoDB deployment to test against...Press any key to exit
 Connected to mongodb://localhost:27017/dev
 book saved OK
-Failed to sync with algolia
+Failed to sync with algolia: doc.pushToAlgolia is not a function
 ```
